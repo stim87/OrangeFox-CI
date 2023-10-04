@@ -15,7 +15,7 @@ export TARGET="recoveryimage"
 
 export OUTPUT="OrangeFox*.zip"
 
-# Additional Dependencies (eg: Kernel Source)
+# Addiational Dependencies (eg: Kernel Source)
 # Format: "repo dest"
 DEPS=(
     "https://github.com/OrangeFoxRecovery/Avatar.git misc"
